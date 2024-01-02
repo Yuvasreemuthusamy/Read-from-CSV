@@ -1,6 +1,7 @@
 # Read-from-CSV
 
 ## AIM:
+To write a pythpn program for reading content frpom a CSV file
 
 ## ALGORITHM:
 ### Step 1:import pandas as pd
